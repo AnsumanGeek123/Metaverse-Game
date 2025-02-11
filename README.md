@@ -1,12 +1,10 @@
-Metaverse Game
-Overview
-This is a Metaverse Game project built using modern web technologies. It includes both frontend and backend components.
+# Metaverse Game
 
-Project Structure
-csharp
-Copy
-Edit
+## Overview
+This is a **Metaverse Game** project built using modern web technologies. It includes both frontend and backend components.
 
+## Project Structure
+```
 Metaverse-Game-main/
 │── metaverse/
 │   ├── apps/
@@ -19,29 +17,28 @@ Metaverse-Game-main/
 │   ├── .gitignore     # Git ignore file
 │   ├── .npmrc         # NPM configuration
 │   ├── README.md      # Documentation
-Technologies Used
-Frontend: React, Vite, TypeScript
-Package Manager: PNPM
-Build System: Turborepo
-Installation
-Clone the repository:
-sh
-Copy
-Edit
-git clone https://github.com/your-repo/metaverse-game.git
-cd metaverse-game
-Install dependencies:
-sh
-Copy
-Edit
-pnpm install
-Run the development server:
-sh
-Copy
-Edit
-pnpm run dev
-Contributing
+```
+
+## Technologies Used
+- **Frontend:** React, Vite, TypeScript
+- **Package Manager:** PNPM
+- **Build System:** Turborepo
+
+## Installation
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your-repo/metaverse-game.git
+   cd metaverse-game
+   ```
+2. Install dependencies:
+   ```sh
+   pnpm install
+   ```
+3. Run the development server:
+   ```sh
+   pnpm run dev
+   ```
+
+## Contributing
 Feel free to submit pull requests and report issues.
 
-License
-This project is licensed under the MIT License.
